@@ -486,6 +486,9 @@
   .bg-\[url\(\/src\/imgs\/c\.jpg\)\] {
     background-image: url(/src/imgs/c.jpg);
   }
+  .bg-\[url\(src\/imgs\/c\.jpg\)\] {
+    background-image: url(src/imgs/c.jpg);
+  }
   .bg-center {
     background-position: center;
   }
