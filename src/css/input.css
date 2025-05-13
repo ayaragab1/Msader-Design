@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+/* دعم الاتجاه من اليمين إلى اليسار */
+@layer base {
+    html {
+      direction: rtl;
+      font-family: 'Cairo', 'sans-serif';
+    }
+  }
+
+  @theme {
+    --color-masader: #BA8B5C;
+   
+  }
